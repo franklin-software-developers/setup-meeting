@@ -14,7 +14,7 @@ https://docs.google.com/spreadsheets/d/1j9Qb_61J1rDr-baKMJC49y9E58KNPMjUvbD0iF0b
 
 ## 📝 Background Survey
 Please fill out this quick Google Form so I can understand everyone's experience levels and adapt the club to better match your backgrounds and interests. <br>
-https://forms.gle/vLVpc89DLb7yTpNJ7
+https://forms.gle/M1MpTCQPYNCbwexq8
 
 ## 🧠 Growth Mindset
 A growth mindset is the practiced belief that developing a skill comes from "dedication and hard work—brains and talent are just the starting point"<sup><a href="https://www.edweek.org/leadership/opinion-carol-dweck-revisits-the-growth-mindset/2015/09?cmp=cpc-goog-ew-growth%20mindset&ccid=growth%20mindset&ccag=growth%20mindset&cckw=%2Bgrowth%20%2Bmindset&cccv=content%20ad&gclid=Cj0KEQiAnvfDBRCXrabLl6-6t-0BEiQAW4SRUM7nekFnoTxc675qBMSJycFgwERohguZWVmNDcSUg5gaAk3I8P8HAQ" target="_blank">1</a></sup>
@@ -37,7 +37,7 @@ It is very likely you will finish early. In that case, please ask other members 
 Officers will: 
 - Walk around the classroom to help members with challenges and answer questions.
 - Attend at least 80% of all meetings in the year.
-- Complete this <a href="https://forms.gle/HdX8y4XbbSDXCThF7">application form</a>
+- Complete this <a href="https://forms.gle/9pUaAzYT1GjmfkLk9">application form</a>
 
 ## 🗂️ Meeting Structure
 <details>
