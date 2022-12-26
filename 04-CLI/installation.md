@@ -124,3 +124,10 @@ GitHub is designed around Git.
     <li>Choose "Visual Studio Code"</li>
     <li>After, click "Next" until it starts installing, then "Finish"</li>
 </ol> 
+
+### ***Configuring Git***
+<ol>
+    <li>Open Ubuntu</li>
+    <li><code>git config --global user.name "first and last name registered on GitHub"</code></li>
+    <li><code>git config --global user.email "your GitHub email"</code></li>
+</ol>
