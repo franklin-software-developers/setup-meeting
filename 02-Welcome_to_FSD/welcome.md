@@ -11,7 +11,6 @@ Our goal as FSD is to introduce and form technical and collaboration skills used
 ## 💻 **Laptop List**
 Please write your name on this <a href="https://docs.google.com/spreadsheets/d/1j9Qb_61J1rDr-baKMJC49y9E58KNPMjUvbD0iF0bv80/edit?usp=sharing" target="_blank">Google Sheet</a> to be assigned to a laptop for the rest of the year. <br>
 
-
 ## 📝 **Background Survey**
 Please fill out this quick <a href="https://forms.gle/M1MpTCQPYNCbwexq8" target="_blank">Google Form</a> so I can understand everyone's experience levels and adapt the club to better match your backgrounds and interests. <br>
 
