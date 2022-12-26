@@ -75,11 +75,6 @@ WSL is a CLI app offered by Microsoft that allows you to run Linux commands on a
 ### ***Using WSL to Download Packages***
 Copy and paste this command in WSL and press enter: <br> 
 <code>sudo apt update && sudo apt upgrade && sudo apt install nodejs && sudo apt install npm</code> 
-<br>
-
-### ***Installing the WSL VSCode Extension***
-Extensions are software add-ons that can be added to your development environment on VSCode. These often enhance your productivity as a developer through added support for programming languages, debuggers, code formatters, 
-
 <details>
     <summary><strong>Optional</strong>: Reveal to find what each part of the command means.<br></summary>
 <ul>
@@ -111,16 +106,55 @@ Extensions are software add-ons that can be added to your development environmen
 </details>
 <br>
 
-## 🔶 **Git**
-Git is a piece of open-source software that tracks changes in code files and allows collaboration between developers working on the same project.<br>
-GitHub is designed around Git.
+### ***Installing the WSL VSCode Extension***
+Extensions are software add-ons that can be added to your development environment on VSCode. These often enhance your productivity as a developer through added support for programming languages, debuggers, code formatters, 
+<br>
 
-### ***Downloading Git***
+## 👩‍💻 **VSCode**
+VSCode is an IDE (integrated development environment) application which essentially helps developers edit, run, and commit their code to GitHub. Think of Google Docs but for code.
+
+### ***Correctly Opening VSCode***
+We need to open VSCode through the command line so we can implement Git into our project.
+<details>
+    <summary>What is Git?</summary>
+    Git is a piece of open-source software that tracks changes in code files and allows collaboration between developers working on the same project.<br>
+    GitHub, as we covered earlier, is designed around Git.
+</details>
 <ol>
-    <li>Visit Git's official <a href="https://git-scm.com/download/win">website</a></li>
-    <li><details><summary>Click the top link to download the latest version of Windows</summary><img src="images/git-website.jpg"></details></li>
-    <li>Open the new <code>.exe</code> file at the bottom
-    <li><details><summary>You'll be taken to a window to setup Git, click next until you reach "Choosing the default editor..."</summary><img src="images/git-setup-select-editor.jpg"></details> 
-    <li>Choose "Visual Studio Code"</li>
-    <li>After, click "Next" until it starts installing, then "Finish"</li>
-</ol> 
+    <li>Open Windows PowerShell normally (do not "Run as administrator")</li>
+    <li>
+        <details>
+            <summary><code>wsl</code></summary>
+            Open WSL
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary><code>cd Desktop</code></summary>
+            <ul>
+                <li><code>cd</code>: Change directories (go into the specified folder)</li>
+                <li><code>Desktop</code>: Change directories into your computer's Desktop to access its files, folders, or apps
+            </ul>
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary><code>ls</code></summary>
+            List everything (i.e. files, folders, apps, etc.) that is in your current directory/folder
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary><code>cd fsd</code></summary>
+            Change into/open the <code>fsd</code> folder that is on your Desktop
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary><code>code [repository/folder name]</code></summary>
+            <ul>
+                <li><code>code</code>: Open the specified repository/folder on your computer with VSCode</li>
+            </ul>
+        </details>    
+    </li>
+</ol>
