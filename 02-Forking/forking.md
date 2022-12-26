@@ -1,13 +1,13 @@
-# ⏬ Forking
+# ⏬ **Forking**
 Forking is an action that can be done within GitHub. It allows you to copy someone else's repository (coding project).<br>
 Think of making a copy of someone's Google Doc and making your own changes. The changes you make in your copy does not affect the older Google Doc you copied from.<br>
 <strong>In most of our meetings, you will need to fork repositories from our organization and add your changes to it.</strong>
 
-## ↪ Forking for FSD Meetings
+## ↪ **Forking for FSD Meetings**
 <ol>
     <li>Go to a repository on our <a href ="https://github.com/franklin-software-developers">organization</a>
         <ul style="list-style-type: circle">
-            <li>For this meeting click on the "setup-meeting" repository</li>
+            <li>For this meeting click on the "html-meeting" repository</li>
         </ul>
     </li>
     <br>

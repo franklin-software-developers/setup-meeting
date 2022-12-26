@@ -1,7 +1,7 @@
-# 📩 Installation
+# 📩 **Installation**
 We will be downloading important tools to help setup our development environment (a workspace made of software applications that help us develop an app).
 
-## ＞ Command Line Interface (CLI)
+## **＞ Command Line Interface (CLI)**
 The command line interface is a text-based program that runs on computers. Instead of using your mouse to point and click at graphic icons, use the CLI to type only a couple keywords to accomplish the same (and even more) actions in a fraction of the time. <br>
 Here are some actions the CLI can do faster and easier:
 
@@ -17,17 +17,19 @@ Here are some actions the CLI can do faster and easier:
 
 <li>Downloading software</li>
 <li>Interacting with GitHub repositories</li>
+<br>
 
-<strong>Using the CLI increases our productivity as developers.</strong>
+*Using the CLI increases our productivity as developers.*
+<br>
 
-## 🐧 WSL
+## 🐧 **WSL**
 WSL is a CLI app offered by Microsoft that allows you to run Linux commands on a Windows computer.
 <details>
     <summary>What is Linux?</summary>
     Windows and MacOS are both operating systems, the essential software that manages the computer's software and hardware. Like Windows and MacOS, Linux is another operating system (OS). However, Linux is an open-source OS, meaning its users can freely access, redistribute and modify it, a huge reason it rose in popularity.
 </details>
 
-### Downloading WSL
+### ***Downloading WSL***
 <ol>
     <li>
         <details>
@@ -70,10 +72,13 @@ WSL is a CLI app offered by Microsoft that allows you to run Linux commands on a
     </li>
 </ol>
 
-### Using WSL to Download Packages
+### ***Using WSL to Download Packages***
 Copy and paste this command in WSL and press enter: <br> 
 <code>sudo apt update && sudo apt upgrade && sudo apt install nodejs && sudo apt install npm</code> 
 <br>
+
+### ***Installing the WSL VSCode Extension***
+Extensions are software add-ons that can be added to your development environment on VSCode. These often enhance your productivity as a developer through added support for programming languages, debuggers, code formatters, 
 
 <details>
     <summary><strong>Optional</strong>: Reveal to find what each part of the command means.<br></summary>
@@ -106,11 +111,11 @@ Copy and paste this command in WSL and press enter: <br>
 </details>
 <br>
 
-## 🌿 Git
+## 🔶 **Git**
 Git is a piece of open-source software that tracks changes in code files and allows collaboration between developers working on the same project.<br>
 GitHub is designed around Git.
 
-### Downloading Git
+### ***Downloading Git***
 <ol>
     <li>Visit Git's official <a href="https://git-scm.com/download/win">website</a></li>
     <li><details><summary>Click the top link to download the latest version of Windows</summary><img src="images/git-website.jpg"></details></li>
@@ -118,4 +123,4 @@ GitHub is designed around Git.
     <li><details><summary>You'll be taken to a window to setup Git, click next until you reach "Choosing the default editor..."</summary><img src="images/git-setup-select-editor.jpg"></details> 
     <li>Choose "Visual Studio Code"</li>
     <li>After, click "Next" until it starts installing, then "Finish"</li>
-</ol>
+</ol> 
