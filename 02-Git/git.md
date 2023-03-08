@@ -9,7 +9,7 @@ git config --global user.email "you@example.com"
 git config --global user.name "Your name"
 ```
 
-If returns version number, Git's already installed.
+If this returns a version number, Git's already installed.
 ```
 git --version
 ```

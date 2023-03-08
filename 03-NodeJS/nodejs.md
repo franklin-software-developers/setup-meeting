@@ -1,5 +1,5 @@
 # Install NodeJS
-Open Command Prompt and type:
+Open PowerShell in VSCode and type:
 ```
 bash
 ```
@@ -11,12 +11,12 @@ Open up the bash profile file using VSCode.
 ```
 code ~/.bash_profile
 ```
-Edit the file that pops up.
+Copy this into the file that pops up.
 ```
 export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
 ```
 
-Go back to PowerShell, copy and paste: <br>
+Go back to PowerShell, copy and paste to 'save' changes: <br>
  ```
  source ~/.bash_profile
  ```
@@ -24,7 +24,7 @@ Use nvm to install the latest stable version of node.
  ```
  nvm install --lts
  ```
- If outputs a version number, everything installed correctly!<br>
+ If this outputs a version number, everything installed correctly!<br>
 ```
 node -v
 ```

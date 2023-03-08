@@ -4,7 +4,7 @@ Complete this <a href="https://docs.google.com/spreadsheets/d/1j9Qb_61J1rDr-baKM
 
 ## 🙀 **Leadership Position Openings**
 Contributors:
-- Collaborate w/ others to build exercises on GitHub (syntax, detailed, coding)
+- Collaborate w/ others on GitHub to build curriculum exercises (syntax, detailed, coding)
 - Help create slides (conceptual, metaphors, larger scope)
  
 Officers: 

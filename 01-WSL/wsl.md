@@ -1,4 +1,4 @@
-# WSL Installation
+# Install WSL
 Open Windows "Start" menu.
 <br><br>
 Start typing "Windows Powershell".
